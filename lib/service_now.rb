@@ -1,6 +1,7 @@
 require "service_now/version"
 require "classes/configuration"
 require "classes/incident"
+require "classes/serviceRequest"
 require "classes/user"
 require "rest_client"
 require "json"
